@@ -1,0 +1,47 @@
+---
+title: "RB_72-45_G3"
+format:
+  html:
+    mainfont: Tinos
+    title-block-banner: false
+    toc: false
+    number-sections: false
+---
+
+## Escuela profesional:
+
+Ingeniería agrónoma
+
+## Curso:
+
+Cultivos Tropicales
+
+## Ciclo:
+
+IX
+
+## Docente:
+
+Vasquez Garcia, Jheiner
+
+## Integrantes:
+
+Luis Miguel Maicelo Villanueva
+
+Jhonatan Olascuaga Villalobos
+
+Ivan Ramos Briceño
+
+Jhener Ivan Visalot Chappa
+
+Andi Toro Rivera
+
+## Variedad:
+
+RB 72-45
+
+## Datos de colecta:
+
+## Descripción de la variedad:
+
+Variedad de origen brasileño (Republica do Brasil). Muy rústica y adaptativa, excelente para suelos con fertilidad media. Alta longevidad de la cepa y buena resistencia a la sequía.
